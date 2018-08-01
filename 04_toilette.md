@@ -6,14 +6,14 @@
 #### Toilette
 
 * Crema solare alta protezione
-* stick labbra
-* dentifricio
-* spazzolino
-* lenti a contatto
-* liquido per lenti
-* occhiali da vista
-* sapone (https://www.facebook.com/insulabodycare/)
-* carta igienica
-* salviette intime
-* asciugamani sintetici
-* occorrente per radersi
+* Stick labbra
+* Dentifricio
+* Spazzolino
+* Lenti a contatto
+* Liquido per lenti
+* Occhiali da vista
+* Sapone (https://www.facebook.com/insulabodycare/)
+* Carta igienica
+* Salviette intime
+* Asciugamani sintetici
+* Occorrente per radersi

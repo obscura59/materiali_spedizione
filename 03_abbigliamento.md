@@ -3,32 +3,32 @@
 
 ### Abbigliamento intimo
 
-* mutande
-* calzini leggeri e da trekking
-* sottotuta completo leggero
+* Mutande
+* Calzini leggeri e da trekking
+* Sottotuta completo leggero
 
 ### Secondo strato
 
-* maglietta termica leggera
-* pantaloncini corti
-* pantaloni lunghi
-* cappellino caldo
+* Maglietta termica leggera
+* Pantaloncini corti
+* Pantaloni lunghi
+* Cappellino caldo
 
 ### Terzo strato
 
-* fleece leggero
+* Fleece leggero
 
 #### Quarto strato
 
 * Guscio impermeabile - traspirante
 * Giacca soft-shell
-* sovrapantaloni
-* cappello con visiera e/o tese larghe
-* buff
+* Sovrapantaloni
+* Cappello con visiera e/o tese larghe
+* Buff
 
 ### Scarpe
 
-* scarpa avvicinamento - arrampicata
-* pedula
-* ciabatte
+* Scarpa avvicinamento - arrampicata
+* Pedula
+* Ciabatte
 

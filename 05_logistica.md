@@ -4,46 +4,46 @@
 
 #### Accessori
 
-* coltellino multiuso
-* coltello da lavoro
-* occhiali da sole
-* guanti
-* kit primo soccorso
-* lampada da testa
-* borraccia
-* borraccia filtrante
-* sacca d'acqua
-* pastiglie per purificare l'acqua
+* Coltellino multiuso
+* Coltello da lavoro
+* Occhiali da sole
+* Guanti
+* Kit primo soccorso
+* Lampada da testa
+* Borraccia
+* Borraccia filtrante
+* Sacca d'acqua
+* Pastiglie per purificare l'acqua
   (microdyn o equivalente)
-* repellente per insetti
-* bastoncini trekking
-* telo di emergenza (spaziale)
-* binocolo
-* cordino 2 ÷ 4 mm
-* corda dinamica/statica
+* Repellente per insetti
+* Bastoncini trekking
+* Telo di emergenza (spaziale)
+* Binocolo
+* Cordino 2 ÷ 4 mm
+* Corda dinamica/statica
 
 ### Navigazione
-* gps
-* orologio
-* pannello solare
-* mappe (portamappe impermeabile)
-* radio
+* Gps
+* Orologio
+* Pannello solare
+* Mappe (portamappe impermeabile)
+* Radio
 
 ### Campeggio
 
-* tenda
-* martello e pala
-* materassino
-* sacco a pelo
-* cuscino
-* fornello
-* kit cucina
-* liofilizzati
-* moka
-* kit piatti/posate
-* tazza termica e bicchiere
-* accendini e fiammiferi antivento
-* contenitore stagno per fiammiferi
-* sacchi per l'immmondizia
-* taniche pieghevoli
-* nastro americano
+* Tenda
+* Martello e pala
+* Materassino
+* Sacco a pelo
+* Cuscino
+* Fornello
+* Kit cucina
+* Liofilizzati
+* Moka
+* Kit piatti/posate
+* Tazza termica e bicchiere
+* Accendini e fiammiferi antivento
+* Contenitore stagno per fiammiferi
+* Sacchi per l'immmondizia
+* Taniche pieghevoli
+* Nastro americano
