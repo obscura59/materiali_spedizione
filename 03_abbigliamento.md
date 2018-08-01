@@ -28,7 +28,7 @@
 
 ### Scarpe
 
-* scarpa avvicinamento
+* scarpa avvicinamento - arrampicata
 * pedula
 * ciabatte
 
