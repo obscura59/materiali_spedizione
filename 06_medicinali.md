@@ -21,3 +21,6 @@
 |              | bende orlate 15 cm    | 2  |                          |            |                                   |
 |              | cerotto telato 3 cm   | 1  |                          |            |                                   |
 |              | confez. Compresse     | 2  | garza sterile 10x10cm    |            |                                   |
+|              | fascia a triangolo    | 1  | garza                    |            |                                   |
+|              | cerotti medicati      | 1  |                          |            |                                   |
+|First Aid     | Kit                   | 1  |                          |            |                                   |
