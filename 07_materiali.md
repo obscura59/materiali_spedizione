@@ -1,7 +1,7 @@
 <!-- # Lista materiali personali -->
 ## Facoltativi
 
-### Materiale Alpinisticox
+### Materiale Alpinistico
 
 * Corda
 * Imbrago
@@ -13,3 +13,7 @@
 * Spit
 * Cunei
 * Piantaspit
+* Zaino
+* Borsa documenti
+* Borsone (Duffel)
+* Saccone
