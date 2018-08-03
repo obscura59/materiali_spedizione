@@ -5,6 +5,8 @@
 
 * Corda
 * Imbrago
+* Casco
+* Guanti
 * Moschettoni
 * Rinvii
 * Gri-gri 
