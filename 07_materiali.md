@@ -12,6 +12,7 @@
 * Gri-gri 
 * Maniglia bloccante
 * Fettucce
+* Cordino Prusik
 * Spit
 * Cunei
 * Piantaspit
