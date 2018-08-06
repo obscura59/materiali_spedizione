@@ -44,6 +44,7 @@
 * Tazza termica e bicchiere
 * Accendini e fiammiferi antivento
 * Contenitore stagno per fiammiferi
-* Sacchi per l'immmondizia
+* Sacchi impermeabili (tipo immmondizia)
+* Sacchetti richiudibili [Istad](https://www.ikea.com/it/it/catalog/products/80339281/)
 * Taniche pieghevoli
 * Nastro americano

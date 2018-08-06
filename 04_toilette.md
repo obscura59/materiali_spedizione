@@ -15,5 +15,7 @@
 * Sapone (https://www.facebook.com/insulabodycare/)
 * Carta igienica
 * Salviette intime
+* Coppetta mestruazioni
+* Assorbenti
 * Asciugamani sintetici
 * Occorrente per radersi
