@@ -6,6 +6,7 @@
 * Mutande
 * Calzini leggeri e da trekking
 * Sottotuta completo leggero
+* Reggiseno
 
 ### Secondo strato
 
@@ -25,6 +26,7 @@
 * Sovrapantaloni
 * Cappello con visiera e/o tese larghe
 * Buff
+* Guanti
 
 ### Scarpe
 
