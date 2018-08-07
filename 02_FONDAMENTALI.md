@@ -3,7 +3,7 @@
 * PASSAPORTO
 * VISTO
 * DOCUMENTO D'IDENTITÀ
-* PATENTE DI GUIDA (+estensione internazionale)
+* PATENTE DI GUIDA (+ estensione internazionale)
 * BIGLIETTO AEREO
 * DENARO
 * PERMESSI
