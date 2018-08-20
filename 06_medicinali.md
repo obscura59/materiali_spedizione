@@ -23,4 +23,5 @@
 |              | confez. Compresse     | 2  | garza sterile 10x10cm    |            |                                   |
 |              | fascia a triangolo    | 1  | garza                    |            |                                   |
 |              | cerotti medicati      | 1  |                          |            |                                   |
-|First Aid     | Kit                   | 1  |                          |            |                                   |
+| First Aid    | Kit                   | 1  |                          |            |                                   |
+| Compeed      | Cerotti per Vesciche  | 5  | Cerotti per Vesciche     |            | Vesciche varie                    |
