@@ -38,6 +38,8 @@
 * Cuscino
 * Fornello
 * Kit cucina
+* Popote / Trangia
+* Detersivi
 * Liofilizzati
 * Moka
 * Kit piatti/posate
