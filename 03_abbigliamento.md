@@ -7,10 +7,12 @@
 * Calzini leggeri e da trekking
 * Sottotuta completo leggero
 * Reggiseno
+* Completo per dormire (pigiama)
+* Tuta da campo
 
 ### Secondo strato
 
-* Maglietta termica leggera
+* Maglietta termica leggera (maniche corte e lunghe)
 * Pantaloncini corti
 * Pantaloni lunghi
 * Cappellino caldo
@@ -25,12 +27,12 @@
 * Giacca soft-shell
 * Sovrapantaloni
 * Cappello con visiera e/o tese larghe
-* Buff
+* Buff - Bandana
 * Guanti
 
 ### Scarpe
 
 * Scarpa avvicinamento - arrampicata
 * Pedula
-* Ciabatte
+* Ciabatte doccia
 
