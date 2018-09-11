@@ -9,6 +9,7 @@
 * Reggiseno
 * Completo per dormire (pigiama)
 * Tuta da campo
+* Fazzoletti
 
 ### Secondo strato
 
