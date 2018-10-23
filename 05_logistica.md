@@ -50,3 +50,4 @@
 * Sacchetti richiudibili [Istad](https://www.ikea.com/it/it/catalog/products/80339281/)
 * Taniche pieghevoli
 * Nastro americano
+* Teflon
