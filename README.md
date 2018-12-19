@@ -17,4 +17,4 @@ Un altro elenco esaustivo (anche se più focalizzato sulla realtà americana) si
   - [Medicinali](06_medicinali.md)
   - [Materiali](07_materiali.md)
   - [Extra](08_extra.md)
-  - [cibo](09_cibo.md)
+  - [Cibo](09_cibo.md)
