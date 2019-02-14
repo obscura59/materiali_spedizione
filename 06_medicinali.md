@@ -16,6 +16,7 @@
 | Aerius       | compresse             | 7  | desloratadina            | 5 mg       | allergia                          |
 | Nexcare      | steri strip           | 4  | cerotti per suture       |            | ferite varie                      |
 | Citrosil     | fazzolettini imbevuti | 8  | benzalconio cloruro      |            | disinfettante cute e ferite       |
+| Betadine     | soluzione cutanea     | 1  | iodopovidone             | 125 ml     | antisepsi della cute e della mucosa orale, vaginale e rettale|
 | Tetramil     | collirio monodose     | 5  | terizolina/feniramina    |            | decongestionante/antinfiammatorio |
 | Proctosedyl  | tubo crema rettale    | 1  |                          | 20 g       | antiemorroidario                  |
 |              | bende orlate 15 cm    | 2  |                          |            |                                   |
