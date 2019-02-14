@@ -23,10 +23,13 @@
 * Corda dinamica/statica
 
 ### Navigazione
+* Bussola
+* Altimetro
 * Gps
 * Orologio
 * Pannello solare
-* Mappe (portamappe impermeabile)
+* Mappe - Carte geografiche
+* Portamappe impermeabile
 * Radio
 
 ### Campeggio
