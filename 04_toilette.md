@@ -12,7 +12,7 @@
 * Lenti a contatto
 * Liquido per lenti
 * Occhiali da vista
-* Sapone (https://www.facebook.com/insulabodycare/)
+* Sapone [Insula](https://www.facebook.com/insulabodycare/)
 * Carta igienica
 * Salviette intime
 * Assorbenti - Coppetta mestruazioni
