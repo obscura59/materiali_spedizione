@@ -15,7 +15,7 @@
 * Sacca d'acqua
 * Pastiglie per purificare l'acqua
   (microdyn o equivalente)
-* Repellente per insetti
+* Repellente per insetti [DEET 50%](https://www.amazon.it/Jungle-Formula-Repellente-Antizanzare-Spray/dp/B01M64XEO4)
 * Bastoncini trekking
 * Telo di emergenza (spaziale)
 * Binocolo
