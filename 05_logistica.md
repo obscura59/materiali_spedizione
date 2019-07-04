@@ -31,6 +31,7 @@
 * Mappe - Carte geografiche
 * Portamappe impermeabile
 * Radio
+* Garmin InReach
 
 ### Campeggio
 
