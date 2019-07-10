@@ -12,3 +12,5 @@
 * Penne
 * Matite
 * Quaderno
+* Prolunga con adattatore da campeggio
+* Multipresa Ciabatta Elettrica
