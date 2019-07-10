@@ -8,6 +8,7 @@
 * Coltello da lavoro
 * Occhiali da sole
 * Guanti
+* Guanti da lavoro
 * Kit primo soccorso
 * Lampada da testa
 * Borraccia
