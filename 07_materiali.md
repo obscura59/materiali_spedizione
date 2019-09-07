@@ -22,4 +22,5 @@
 * Borsone (Duffel)
 * Saccone
 * Sacchi stagni ([Amphibious Tube Light Evo](http://www.amphibious.it/prodotti/sacchi-a-tubo/tube-light-evo.html))
+* Basto per carichi ingombranti
 
