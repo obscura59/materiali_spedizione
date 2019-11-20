@@ -42,6 +42,7 @@
 * Sacco a pelo
 * Cuscino
 * Fornello
+* Paratia antivento (lamierino)
 * Kit cucina
 * Popote / Trangia
 * Detersivi
