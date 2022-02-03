@@ -50,6 +50,7 @@
 * Moka
 * Kit piatti/posate
 * Tazza termica e bicchiere
+* Firestarter
 * Accendini e fiammiferi antivento
 * Contenitore stagno per fiammiferi
 * Sacchi impermeabili (tipo immmondizia)
