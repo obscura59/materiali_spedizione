@@ -19,6 +19,7 @@
 | Betadine     | soluzione cutanea     | 1  | iodopovidone             | 125 ml     | antisepsi della cute e della mucosa orale, vaginale e rettale|
 | Tetramil     | collirio monodose     | 5  | terizolina/feniramina    |            | decongestionante/antinfiammatorio |
 | Proctosedyl  | tubo crema rettale    | 1  |                          | 20 g       | antiemorroidario                  |
+|Bepanthenol   | pasta Lenitiva        | 1  | pantenolo                | 100 g      | pasta lenitiva anti sfregamento   |
 |              | bende orlate 15 cm    | 2  |                          |            |                                   |
 |              | cerotto telato 3 cm   | 1  |                          |            |                                   |
 |              | confez. Compresse     | 2  | garza sterile 10x10cm    |            |                                   |
