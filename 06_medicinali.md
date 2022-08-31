@@ -27,3 +27,4 @@
 |              | cerotti medicati      | 1  |                          |            |                                   |
 | First Aid    | Kit                   | 1  |                          |            |                                   |
 | Compeed      | Cerotti per Vesciche  | 5  | Cerotti per Vesciche     |            | Vesciche varie                    |
+| Ovatta emostatica| | 1 | alginato di calcio| |  |emorragie nasali e piccole emorragie|
