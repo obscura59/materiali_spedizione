@@ -20,6 +20,7 @@
 | Tetramil     | collirio monodose     | 5  | terizolina/feniramina    |            | decongestionante/antinfiammatorio |
 | Proctosedyl  | tubo crema rettale    | 1  |                          | 20 g       | antiemorroidario                  |
 |Bepanthenol   | pasta lenitiva        | 1  | pantenolo                | 100 g      | pasta lenitiva anti sfregamento   |
+|Voltaren Emulgel | 2% gel             | 1  |diclofenac dietilammonio  | 100 ml     | tendiniti, storte...              |
 |              | bende orlate 15 cm    | 2  |                          |            |                                   |
 |              | cerotto telato 3 cm   | 1  |                          |            |                                   |
 |              | confez. Compresse     | 2  | garza sterile 10x10cm    |            |                                   |
@@ -27,4 +28,4 @@
 |              | cerotti medicati      | 1  |                          |            |                                   |
 | First Aid    | Kit                   | 1  |                          |            |                                   |
 | Compeed      | Cerotti per Vesciche  | 5  | Cerotti per Vesciche     |            | Vesciche varie                    |
-| Ovatta emostatica| | 1 | alginato di calcio|  |emorragie nasali e piccole emorragie|
+| Ovatta emostatica|                   | 1  | alginato di calcio       |            |emorragie nasali e piccole emorragie|
