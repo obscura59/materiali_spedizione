@@ -14,3 +14,4 @@
 * Quaderno
 * Prolunga con adattatore da campeggio
 * Multipresa Ciabatta Elettrica
+* Piccolo pannello solare (5w) 
