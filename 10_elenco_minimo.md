@@ -56,6 +56,7 @@
 
 #### Accessori
 * Coltellino multiuso
+* Posate multiuso
 * Occhiali da sole
 * Kit primo soccorso
 * Lampada da testa
@@ -72,6 +73,7 @@
 
 #### Campeggio
 * Sacco lenzuolo (meglio in seta)
+* Sacco a pelo leggero
 * Sacchetti richiudibili [Istad](https://www.ikea.com/it/it/catalog/products/80339281/)
 * Nastro americano
 
