@@ -44,6 +44,7 @@
 * Antinfiammatorio
 * Antidolorifico
 * Antistaminico/Stick punture
+
 ### Logistica
 #### Accessori
 * Coltellino multiuso
