@@ -7,6 +7,7 @@
 * CARTE DI CREDITO (controllare scadenza!!!)
 
 ### Abbigliamento
+
 #### Intimo
 * Mutande
 * Calzini leggeri e da trekking
@@ -48,6 +49,7 @@
 * Antistaminico/Stick punture
 
 ### Logistica
+
 #### Accessori
 * Coltellino multiuso
 * Occhiali da sole
