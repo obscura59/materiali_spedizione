@@ -35,9 +35,15 @@
 * Sapone biodegradabile ([Insula](https://www.facebook.com/insulabodycare/))
 * Carta igienica
 * Salviette intime
-* Asciugamani sintetici
+* Asciugamani microfibra
 * Occorrente per radersi
-
+### Medicinali
+* Compeed
+* Medicinali abituali
+* Salviette disinfettanti (tipo Citrosil)
+* Antinfiammatorio
+* Antidolorifico
+* Antistaminico/Stick punture
 ### Logistica
 #### Accessori
 * Coltellino multiuso
@@ -54,6 +60,7 @@
 * Mappe - Carte geografiche
 * Portamappe impermeabile
 #### Campeggio
+* Sacco lenzuolo (meglio in seta)
 * Sacchetti richiudibili [Istad](https://www.ikea.com/it/it/catalog/products/80339281/)
 * Nastro americano
 
@@ -67,6 +74,3 @@
 * Penne
 * Matite
 * Quaderno
-* Prolunga con adattatore da campeggio
-* Multipresa Ciabatta Elettrica
-* Piccolo pannello solare (5w) 
