@@ -2,7 +2,7 @@
 
 ### FONDAMENTALI!
 * DOCUMENTO D'IDENTITÀ (controllare scadenza!!!)
-* PATENTE DI GUIDA (+ estensione internazionale) (controllare scadenza!!!)
+* PATENTE DI GUIDA (controllare scadenza!!!)
 * DENARO
 * CARTE DI CREDITO (controllare scadenza!!!)
 ### Abbigliamento
