@@ -5,28 +5,24 @@
 * PATENTE DI GUIDA (+ estensione internazionale) (controllare scadenza!!!)
 * DENARO
 * CARTE DI CREDITO (controllare scadenza!!!)
-
-#### Abbigliamento intimo
+### Abbigliamento
+#### Intimo
 * Mutande
 * Calzini leggeri e da trekking
 * Reggiseno
 * Completo per dormire (pigiama)
 * Fazzoletti
-
 #### Secondo strato
 * Maglietta termica leggera (maniche corte e lunghe)
 * Pantaloncini corti
 * Pantaloni lunghi
 * Cappellino
-
 #### Terzo strato
 * Fleece leggero
-
 #### Quarto strato
 * Guscio impermeabile - traspirante
 * Cappello con visiera e/o tese larghe
 * Buff - Bandana
-
 #### Scarpe
 * Scarpa avvicinamento
 * Ciabatte doccia
@@ -52,15 +48,12 @@
 * Bastoncini trekking
 * Telo di emergenza (spaziale)
 * Cordino 2 ÷ 4 mm
-
-### Navigazione
+#### Navigazione
 * Gps
 * Orologio
 * Mappe - Carte geografiche
 * Portamappe impermeabile
-
-
-### Campeggio
+#### Campeggio
 * Sacchetti richiudibili [Istad](https://www.ikea.com/it/it/catalog/products/80339281/)
 * Nastro americano
 
@@ -78,4 +71,3 @@
 * Prolunga con adattatore da campeggio
 * Multipresa Ciabatta Elettrica
 * Piccolo pannello solare (5w) 
-
