@@ -18,3 +18,6 @@ Un altro elenco esaustivo (anche se più focalizzato sulla realtà americana) si
   - [Materiali](07_materiali.md)
   - [Extra](08_extra.md)
   - [Cibo](09_cibo.md)
+
+## Un elenco ridotto pensato per un cammino estivo in Italia
+  - [Materiali per un cammino](10_elenco_minimo.md)
