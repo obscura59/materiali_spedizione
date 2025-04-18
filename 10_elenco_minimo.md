@@ -5,6 +5,7 @@
 * PATENTE DI GUIDA (controllare scadenza!!!)
 * DENARO
 * CARTE DI CREDITO (controllare scadenza!!!)
+
 ### Abbigliamento
 #### Intimo
 * Mutande
@@ -37,6 +38,7 @@
 * Salviette intime
 * Asciugamani microfibra
 * Occorrente per radersi
+
 ### Medicinali
 * Compeed
 * Medicinali abituali
@@ -66,7 +68,6 @@
 * Nastro americano
 
 ### Extra
-
 * E-book reader
 * Macchina fotografica
 * Batterie di ricambio
