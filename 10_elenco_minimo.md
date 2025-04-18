@@ -20,7 +20,7 @@
 * Pantaloncini corti
 * Pantaloni lunghi
 * Cappellino
-* 
+
 #### Terzo strato
 * Fleece leggero
 
@@ -35,6 +35,7 @@
 
 ### Necessaire da toilette
 * Crema solare alta protezione
+* Crema ossido di zinco (prevenzione vesciche)
 * Stick labbra
 * Dentifricio
 * Spazzolino
