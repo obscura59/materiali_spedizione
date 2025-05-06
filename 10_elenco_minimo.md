@@ -1,4 +1,4 @@
-# Elenco minimo per un cammino in Italia
+# Elenco minimo per un cammino in Italia (Summer Edition)
 
 ### FONDAMENTALI!
 * DOCUMENTO D'IDENTITÀ (controllare scadenza!!!)
